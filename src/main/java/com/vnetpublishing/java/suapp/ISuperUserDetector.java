@@ -1,5 +1,7 @@
 package com.vnetpublishing.java.suapp;
 
 public interface ISuperUserDetector {
-	public boolean isSuperUser();
+
+    public boolean isSuperUser();
+
 }
